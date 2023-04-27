@@ -1,4 +1,4 @@
-# desafio-dio-POO
+# desafio-dio-POO - Professora Camila Cavalcante - Digital Inovation One
 
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
